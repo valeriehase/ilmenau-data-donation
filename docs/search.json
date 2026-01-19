@@ -858,7 +858,7 @@
     "href": "03-study-researcher-perspective.html#section-8",
     "title": "Data Donation Workshop - Ilmenau",
     "section": "",
-    "text": "📢 Task 3: Example Analysis of YouTube Watch history\nDownload the “Data for Task 4” from the website or use your own YouTube watch history. Also, load the respective R-code. Run the code (you just have to change the location and name of your data):\n\n\nOn which day do you mostly watch YouTube?\nAt what time do you mostly watch YouTube?\n\n\nThe idea for this code and analysis was provided by Michael Scharkow, University of Mainz."
+    "text": "📢 Task 3: Example Analysis of YouTube Watch history\nDownload the “Data for Task 3” from the website or use your own YouTube watch history. Also, load the respective R-code. Run the code (you just have to change the location and name of your data):\n\n\nOn which day do you mostly watch YouTube?\nAt what time do you mostly watch YouTube?\n\n\nThe idea for this code and analysis was provided by Michael Scharkow, University of Mainz."
   },
   {
     "objectID": "03-study-researcher-perspective.html#section-9",

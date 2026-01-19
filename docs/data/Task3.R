@@ -11,7 +11,7 @@ theme_set(theme_minimal())
 yt_data <-
   
   #read in the json file
-  jsonlite::fromJSON("Workshop/data/Data for Task 6.json") |>
+  jsonlite::fromJSON("Workshop/data/Data-for-Task3.json") |>
   
   #reformat it to a tibble for compability with tidyverse
   as_tibble() |>

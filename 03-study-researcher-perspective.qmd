@@ -397,7 +397,7 @@ Often, we need to further preprocess collected data through...
 ::: {style="font-size: 120%;text-align:center;"}
 **📢 Task 3: Example Analysis of YouTube Watch history**
 
-*Download the "Data for Task 4" from the website or use your own YouTube watch history. Also, load the respective R-code. Run the code (you just have to change the location and name of your data)*:
+*Download the "Data for Task 3" from the website or use your own YouTube watch history. Also, load the respective R-code. Run the code (you just have to change the location and name of your data)*:
 :::
 
 (1) On which day do you mostly watch YouTube?
