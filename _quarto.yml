@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Data Donation Workshop - Ilmenau"
+  navbar:
+    search: false
+    pinned: true
+    tools:
+      - icon: github
+        href: https://valeriehase.github.io/ilmenau-data-donation/
+      - icon: website
+        href: https://data-donation-science.de
+
+format:
+  html:
+    theme: lux
+    toc: true

@@ -1,0 +1,100 @@
+---
+title: "Introduction to Data Donations"
+---
+
+![Source: Image by Joshua Reddekopp via Unsplash](images/coding.jpg){fig-alt="laptop including data and code" fig-align="left" width="600"}
+
+<hr>
+
+## About the workshop
+
+-   💻 Method Workshop at TU Ilmenau
+
+-   📅 January 26, 2026 (10am to 2pm)
+
+-   Workshop led by: [Valerie Hase](https://valerie-hase.com/) ([Digital Media and Methods Lab](http://www.media-methods-lab.com/), University of Klagenfurt). Partly funded by the [DFG project](https://data-donation-science.de) "*Integrating Data Donations in Survey Infrastructure*"
+
+-   Organization: Special shout out 🙌 to Max Schindler and Leonie Kühn!
+
+## **Workshop Summary**
+
+Digital trace data – records of people’s activities on digital platforms – provide detailed, time-stamped, and often long-term insights into online behavior. These traces are valuable for examining social-science questions, such as information seeking, exposure to political content, or problematic internet behavior. Data donation studies offer a newer way to collect such information: participants download their platform data using GDPR’s data portability rights and voluntarily share them with researchers. This method enables privacy-conscious, computational processing of fine-grained, less reactive, and highly longitudinal datasets.
+
+The workshop introduces the foundations of data donation studies. Participants will explore each step from both the user and researcher viewpoint, including study design, technical implementation, and analysis strategies. You will work with real data packages, reflect on their limitations, and engage with the technical, theoretical, legal, and ethical issues that shape this emerging research approach. Some basic experience with R is beneficial but optional.
+
+## **Timetable**
+
+|  |  |
+|----|----|
+| ⏰ 10--10:15am | Session 1️⃣: Welcome & Intro to Digital Traces |
+| ⏰ 10:15--11am | Session 2️⃣: Data Donation Studies (Participant Perspective) |
+| ⏰ 11am--12:15pm | Session 3️⃣: Data Donation Studies (Researcher Perspective) |
+| 🥖12:15--1:15pm | Lunch break |
+| ⏰ 1:15--2pm | Session 4️⃣: Bias in Digital Trace Data & Outro |
+
+## Workshop materials
+
+**Session 1️⃣: Welcome & Intro to Digital Traces**
+
+-   [Slides - HTML](01-intro.html)
+-   [Slides - PDF](pdf/01-intro.pdf)
+
+**Session 2️⃣: Data Donation Studies (Participant Perspective)**
+
+-   [Slides - HTML](02-study-participant-perspective.html)
+-   [Slides - PDF](pdf/02-study-participant-perspective.pdf)
+-   📢 [Example data for Task 2](data/example_data.zip)
+
+**Session 3️⃣: Data Donation Studies (Researcher Perspective)**
+
+-   [Slides - HTML](03-study-researcher-perspective.html)
+-   [Slides - PDF](pdf/03-study-researcher-perspective.pdf)
+-   <a href="data/Data-for-Task3.json" download>📢 Data for Task 3</a>
+-   <a href="data/Task3.R" download>📢 Code for Task 3</a>
+
+**Session 4️⃣: Bias in Digital Trace Data & Outro**
+
+-   [Slides - HTML](04-bias-outro.html)
+-   [Slides - PDF](pdf/04-bias-outro.pdf)
+
+## Additional tutorials
+
+(1) Bail, C. A. (2020). What is digital trace data? [Link](https://sicss.io/overview/what-is-digital-trace-data)
+
+<hr>
+
+(2) Jaursch, J., & Lorenz-Spleen, P.(2024). Researcher access to platform data under the DSA: Questions and answers. [Link](https://reclaimingautonomyonline.notion.site/Researcher-access-to-platform-data-under-the-DSA-Questions-and-answers-8f7390f3ae6b4aa7ad53d53158ed257c)
+
+<hr>
+
+(3) Kohne, J. (2025). Data donation with WhatsR. [Link](https://github.com/gesiscss/DataDonationWorkshop2025LMU)
+
+## Additional literature
+
+(1) Boeschoten, L., Ausloos, J., Möller, J. E., Araujo, T., & Oberski, D. L. (2022). A framework for privacy preserving digital trace data collection through data donation. *Computational Communication Research*, *4*(2), 388--423. [Link](https://doi.org/10.5117/CCR2022.2.002.BOES)
+
+<hr>
+
+(2) Carrière, T.C., Boeschoten, L., Struminskaya, B. et al. Best practices for studies using digital data donation. *Quality & Quantity*, *59*, 389-–412 (2025). https://doi.org/10.1007/s11135-024-01983-x
+
+<hr>
+
+(3) Haim, M., Leiner, D., & Hase, V. (2023). Integrating Data Donations into Online Surveys. *Medien & Kommunikationswissenschaft*, *71*(1--2), 130--137. [Link](https://doi.org/10.5771/1615-634X-2023-1-2-130)
+
+<hr>
+
+(4) Keusch, F., & Kreuter, F. (2021). Digital trace data. In U. Engel, A. Quan-Haase, S. X. Liu, & L. Lyberg, *Handbook of Computational Social Science*, Volume 1 (1st Edition, p. 100--118). Routledge. [Link](https://doi.org/10.4324/9781003024583-8)
+
+<hr>
+
+(5) Lazer, D., Hargittai, E., Freelon, D., Gonzalez-Bailon, S., Munger, K., Ognyanova, K., & Radford, J. (2021). Meaningful measures of human society in the twenty-first century. *Nature*, *595*(7866), 189--196. [Link](https://doi.org/10.1038/s41586-021-03660-7)
+
+<hr>
+
+(6) Stier, S., Breuer, J., Siegers, P., & Thorson, K. (2020). Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field. *Social Science Computer Review*, *38*(5), 503--516. [Link](https://doi.org/10.1177/0894439319843669)
+
+<hr>
+
+7.  Xiong, Y., van der Wal, A., & Beyens, I. (2025). Improving Participation in Data Donation Studies: A Systematic Review of Factors Driving Participation and Evidence-Informed Best Practices. *Social Science Computer Review*. Online first publication. [Link](https://doi.org/10.1177/08944393251395958)
+
+<hr>
